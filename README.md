@@ -2,7 +2,7 @@ Hi, my name is Erick Marín Rojas and:
 
 - 🐎 From Guanacaste, Costa Rica 🇨🇷
 - 🔭 I’m currently working on graduating from the UCR with a bachelor in EE.
-- 🌱 I’m currently learning how to setup MAMBA and VeriLog.
+- 🌱 I’m currently learning how to program BitNet 1.58b in iVeriLog.
 - 👯 I’m looking to collaborate on anything that gets me to learn the ropes.
 - 🤔 I’m looking for help with the previous point.
 - 💬 Ask me about corn.
