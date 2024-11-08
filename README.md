@@ -7,6 +7,5 @@ Hi, my name is Erick Marín Rojas and:
 - 🤔 I’m looking for help with the previous point.
 - 💬 Ask me about corn.
 - 📫 How to reach me: erick.marinrojas@ucr.ac.cr
-- 😄 Pronouns: N/A
 - ⚡ Fun fact: There's a lot of selenium in cas.
 
